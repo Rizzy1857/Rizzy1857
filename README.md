@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rizzy1857/Rizzy1857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GLITCH HEADER -->
+<div style="position:relative;">
+  <h1 style="
+    color: #00ffcc;
+    text-shadow: 0 0 10px #00ffcc;
+    font-family: 'Share Tech Mono', monospace;
+    position: relative;
+    display: inline-block;
+  ">
+    <span style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: #ff00ff;
+      clip-path: polygon(0 0, 100% 0, 100% 45%, 0 45%);
+    ">0xN3ON</span>
+    <span style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: #ffee00;
+      clip-path: polygon(0 60%, 100% 60%, 100% 100%, 0 100%);
+    ">0xN3ON</span>
+    0xN3ON
+  </h1>
+</div>
 
-Here are some ideas to get you started:
+<!-- STATUS INDICATOR -->
+<div style="
+  animation: pulse 2s infinite;
+  color: #ff003c;
+  font-family: monospace;
+  margin: 1rem 0;
+">
+  > STATUS: [ONLINE]
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<style>
+  @keyframes pulse {
+    0% { opacity: 0.5; }
+    50% { opacity: 1; text-shadow: 0 0 10px #ff003c; }
+    100% { opacity: 0.5; }
+  }
+</style>
