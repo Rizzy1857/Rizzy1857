@@ -15,11 +15,26 @@
 
 [![Glitch Text](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=9999999&color=00F0FF&background=0D111700&center=true&vCenter=true&width=500&lines=Cyberware+Loadouts)](https://git.io/typing-svg)
 
-```diff
-+ LANGUAGES: Rust • Python • TypeScript • C
-+ TOOL: UE5 • WireShark 
-+ SECRETS: [REDACTED]
-```
+<!-- Rust -->
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+</a>
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</a>
+<!-- C -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+</a>
+<br>
+<!-- Animated Skill Icons -->
+<img src="https://skillicons.dev/icons?i=rust,python,java,c&theme=dark&perline=4" alt="Tech Stack">
+
  
 [![Glitch Text](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=9999999&color=00F0FF&background=0D111700&center=true&vCenter=true&width=500&lines=Active+Holograms)](https://git.io/typing-svg)
 
