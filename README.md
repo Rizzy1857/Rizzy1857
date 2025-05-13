@@ -3,7 +3,7 @@
 </div>  
 <div align="center">
 
-[![Glitch Text](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=500&color=00F0FF&background=0D111700&center=true&vCenter=true&width=500&lines=%24+./glitch.sh+CYBERPROFILE+INITIATED;USER+IDENTIFIED;Rizzy1857)](https://git.io/typing-svg)
+[![Glitch Text](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=9999999&color=00F0FF&background=0D111700&center=true&vCenter=true&width=500&lines=Rizzy1857)](https://git.io/typing-svg)
 [![Glitch Text](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=9999999&color=00F0FF&background=0D111700&center=true&vCenter=true&width=500&lines=Real+Time+Systems)](https://git.io/typing-svg)
 
 <p align="center">
