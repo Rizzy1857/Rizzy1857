@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rizzy1857&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%"> 
 </p>
-<!--
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rizzy1857&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophies">
 </p>
