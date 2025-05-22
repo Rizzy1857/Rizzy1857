@@ -10,9 +10,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rizzy1857&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%"> 
 </p>
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rizzy1857&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophies">
 </p>
+
 
 [![Glitch Text](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=9999999&color=00F0FF&background=0D111700&center=true&vCenter=true&width=500&lines=Cyberware+Loadouts)](https://git.io/typing-svg)
 
